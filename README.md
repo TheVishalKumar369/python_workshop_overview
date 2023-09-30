@@ -14,3 +14,8 @@ VS code editor-Microsoft
 Note:Bugs may be present in the code as it was written during the workshop itself.....
 
 thanks...........
+
+
+venue: KMC college, Bagbazar, Kathmandu< Nepal 
+Author: Vishal Kumar Sah, Kathmandu, Nepal 
+contact: thevishalkumar99@gmail.com
